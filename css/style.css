@@ -1,0 +1,24 @@
+.container{
+    margin: 30px;
+
+}
+
+h1 {
+    display: block;
+    font-size: 5em;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h2{
+    display: flex;
+    font-size: 3em;
+    justify-content: center;
+    align-items: center;
+}
+
+#form-register{
+    display: grid;
+    place-content: center;
+    margin-top: 15px;
+}
